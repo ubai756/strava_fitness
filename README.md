@@ -1,5 +1,11 @@
 # Fitness Analytics Case Study
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-database-07405E?logo=sqlite&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 A Bellabeat-style analytics case study, applied to Fitbit/Fitabase fitness-tracker
 data, delivered as an interactive Streamlit dashboard.
 
@@ -94,3 +100,12 @@ streamlit run app.py
 - **SQL / SQLite** — cleaning, joining, and querying the data
 - **Python (pandas)** — ETL pipeline
 - **Streamlit + Plotly** — interactive dashboard
+
+## Contributing
+
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
+propose changes.
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
